@@ -219,6 +219,28 @@ ol {
   width: 100%;
   height: 100%;
 }
+
+
+
+.goldtext{
+color: #cc921b;
+}
+
+.middleText{
+top: 97px;
+}
+
+.topLogoFix{
+display: flex; justify-content: center;
+top: 23px;
+height: 82px;
+}
+
+.move-u{
+ top: 136px;
+ margin-bottom: 0;
+ margin-top: 0;
+}
 .u-background-effect {
   overflow: hidden;
 }
