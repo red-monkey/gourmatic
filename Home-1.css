@@ -1,3 +1,11 @@
+ .u-form-message{
+  height: 103px;
+ }
+
+ .middleText{
+top: 97px;
+}
+
  .u-section-1 {
   background-image: url("images/hhhhhhhhhh.jpg");
   background-position: 50% 50%;
@@ -1494,3 +1502,4 @@
     margin-top: 42px;
   }
 }
+
